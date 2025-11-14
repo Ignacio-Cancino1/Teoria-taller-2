@@ -12,20 +12,20 @@ El trabajo combina **análisis teórico** (complejidad temporal y espacial) y **
 
 ## 📂 Estructura del Proyecto
 
-taller2-complejidad/
+📁 **taller2-complejidad/**
 │
-├── src/
-│   ├── bubble_sort.py          # Implementación de Bubble Sort
-│   ├── merge_sort.py           # Implementación de Merge Sort
-│   ├── quick_sort.py           # Implementación de Quick Sort
-│   └── medir_algoritmos.py     # Script principal: genera tiempos y gráfico
+├── 📁 **src/**
+│   ├── 🟦 bubble_sort.py — Implementación de Bubble Sort  
+│   ├── 🟦 merge_sort.py — Implementación de Merge Sort  
+│   ├── 🟦 quick_sort.py — Implementación de Quick Sort  
+│   └── 🟦 medir_algoritmos.py — Script principal que genera tiempos y gráfico  
 │
-├── results/
-│   ├── grafico_tiempos.png     # Gráfico generado por el experimento
-│   └── tiempos.csv             # Datos numéricos del experimento
+├── 📁 **results/**
+│   ├── 📊 grafico_tiempos.png — Gráfico comparativo  
+│   └── 📄 tiempos.csv — Tiempos promedios  
 │
-├── README.md                   # Este archivo
-
+├── 📘 README.md — Documentación del proyecto  
+└── 📄 manual_de_usuario.pdf — Manual incluido en el informe  
 
 ---
 
