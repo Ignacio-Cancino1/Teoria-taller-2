@@ -93,11 +93,11 @@ El informe fue desarrollado en LaTeX, siguiendo la rúbrica del curso.
 Se adjuntó en la plataforma de la universidad junto con este código.
 
 🧑‍💻 Integrantes del Grupo
-Integrante 1 — correo@correo.cl
+Demian  Binimelis — dbinimelis2022@alu.uct.cl
 
-Integrante 2 — correo@correo.cl
+Ignacio  Cancino — icancino2021@alu.uct.cl
 
-Integrante 3 — correo@correo.cl
+Daniel Burgos — dburgos2016@alu.uct.cl
 
 📜 Licencia (opcional)
 Este proyecto puede utilizarse con fines académicos y educativos.
